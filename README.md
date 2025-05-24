@@ -1,4 +1,3 @@
-````markdown
 # EmoSurv: Digital Phenotyping with Typing Dynamics
 
 This project explores emotion recognition using **keystroke dynamics** as part of a digital phenotyping system. It uses a deep neural network to classify user emotions based on low-level typing features like key hold times and inter-key delays.
@@ -127,4 +126,3 @@ Major: ECE | Minor: CSE
 This project is for academic and research use. For commercial or clinical use, contact the author.
 
 ```
-````
