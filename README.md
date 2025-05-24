@@ -43,27 +43,12 @@ nn.Sequential(
     nn.ReLU(),
     nn.Linear(64, num_classes)
 )
-
+```
 
 * **Input size**: 2 (key hold duration and inter-key delay)
 * **Output size**: Number of emotion classes
 * **Loss function**: Cross-Entropy Loss
 * **Optimizer**: Adam
-
----
-
-## 📈 Training & Evaluation
-
-* Trained for 20 epochs.
-* Tracks training loss and test accuracy.
-* Evaluation includes:
-
-  * Loss/accuracy plots.
-  * Confusion matrix for prediction visualization.
-
-Example:
-![Accuracy Plot](example_accuracy.png)
-![Confusion Matrix](example_confusion_matrix.png)
 
 ---
 
