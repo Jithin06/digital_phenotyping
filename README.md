@@ -45,8 +45,6 @@ nn.Sequential(
 )
 ```
 
-* **Input size**: 2 (key hold duration and inter-key delay)
-* **Output size**: Number of emotion classes
 * **Loss function**: Cross-Entropy Loss
 * **Optimizer**: Adam
 
@@ -101,8 +99,7 @@ jupyter notebook emosurv_dataset_updated.ipynb
 ## 🧑‍💻 Author
 
 **Jithin Rajan**
-Undergraduate at NIT Trichy
-Major: ECE | Minor: CSE
+(Undergraduate at NIT Trichy)
 
 ---
 
